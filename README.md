@@ -5,7 +5,7 @@ I hope to become a senior software developer and keep working hard🤠
 
 Currently studying Nacos, Seata, RocketMQ, Dubbo, Grpc and other microservice development technologies🥱
 
-I am currently passionate about open source and am currently studying the connection between modules and code testing in Seata.
+I am currently passionate about open source and am currently studying the connection between modules in Seata and code testing.
 
 # 🛠️Technology Stack
 Java、Go、Git、Sql、Lua...
