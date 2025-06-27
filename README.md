@@ -17,7 +17,14 @@ Nacos、Seata、RocketMQ、Kafka ...
 Docker、Kubernetes、Github Actions......
 
 # Open Source Contributions(working hard to increase😭)
+
+## bugfix：
+- [Merging] bugfix: TransactionScopeTest cannot run normally and throws an exception [https://github.com/apache/incubator-seata/pull/7482]
+
+## optimize:
 - [Merged] optimize: Druid SQL parser throws ParserException for unsupported REPLACE statement [https://github.com/apache/incubator-seata/pull/7456]
+
+## Test：
 - [Merged] test: add UT for RemotingFactoryBeanParser class [https://github.com/apache/incubator-seata/pull/7420]
 - [Merged] test: add UT for org.apache.seata.spring.annotation.scannercheckers [https://github.com/apache/incubator-seata/pull/7423]
 - [Merging] test: add UT for SupportSqlWhereMethod class [https://github.com/apache/incubator-seata/pull/7468]
