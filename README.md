@@ -19,7 +19,7 @@ Docker、Kubernetes、Github Actions......
 # Open Source Contributions(working hard to increase😭)
 
 ## bugfix：
-- [Merging] bugfix: TransactionScopeTest cannot run normally and throws an exception [https://github.com/apache/incubator-seata/pull/7482]
+- [Merging] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
 
 ## optimize:
 - [Merged] optimize: Druid SQL parser throws ParserException for unsupported REPLACE statement [https://github.com/apache/incubator-seata/pull/7456]
