@@ -20,6 +20,7 @@ Docker、Kubernetes、Github Actions......
 
 ## bugfix：
 - [Merging] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
+- [Merging] bugfix: fixed the problem of not being able to load driver class in Hikari [https://github.com/apache/incubator-seata/pull/7504]
 
 ## optimize:
 - [Merged] optimize: Druid SQL parser throws ParserException for unsupported REPLACE statement [https://github.com/apache/incubator-seata/pull/7456]
