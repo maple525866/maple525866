@@ -28,6 +28,6 @@ Docker、Kubernetes、Github Actions......
 ## Test：
 - [Merged] test: add UT for RemotingFactoryBeanParser class [https://github.com/apache/incubator-seata/pull/7420]
 - [Merged] test: add UT for org.apache.seata.spring.annotation.scannercheckers [https://github.com/apache/incubator-seata/pull/7423]
-- [Merging] test: add UT for SupportSqlWhereMethod class [https://github.com/apache/incubator-seata/pull/7468]
+- [Merged] test: add UT for SupportSqlWhereMethod class [https://github.com/apache/incubator-seata/pull/7468]
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maple525866&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
