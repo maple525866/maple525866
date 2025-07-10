@@ -24,6 +24,7 @@ Docker、Kubernetes、Github Actions......
 
 ## optimize:
 - [Merged] optimize: Druid SQL parser throws ParserException for unsupported REPLACE statement [https://github.com/apache/incubator-seata/pull/7456]
+- [Merged] optimize: avoid using unstable API in ChannelEventHandlerIntegrationTest [https://github.com/apache/incubator-seata/pull/7518]
 
 ## Test：
 - [Merged] test: add UT for RemotingFactoryBeanParser class [https://github.com/apache/incubator-seata/pull/7420]
