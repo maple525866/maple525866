@@ -20,21 +20,21 @@ Docker、Kubernetes、Github Actions......
 
 # Open Source Contributions(working hard to increase😭)
 ## feature：
-- [Merging] feature: Implement a new SM3MessageDigest with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
+- [Merged] feature: Implement a new SM3MessageDigest with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 
 ## bugfix：
-- [Merging] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
+- [Merged] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
 - [Merged] bugfix: fixed the problem of not being able to load driver class in Hikari [https://github.com/apache/incubator-seata/pull/7504]
 
 ## optimize:
 - [Merged] optimize: Druid SQL parser throws ParserException for unsupported REPLACE statement [https://github.com/apache/incubator-seata/pull/7456]
 - [Merged] optimize: avoid using unstable API in ChannelEventHandlerIntegrationTest [https://github.com/apache/incubator-seata/pull/7518]
-- [Merging] optimize: Use the strategy mode to optimize the original SM3MessageDigest and SM3Engine architecture [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
+- [Merged] optimize: Use the strategy mode to optimize the original SM3MessageDigest and SM3Engine architecture [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 
 ## Test：
 - [Merged] test: add UT for RemotingFactoryBeanParser class [https://github.com/apache/incubator-seata/pull/7420]
 - [Merged] test: add UT for org.apache.seata.spring.annotation.scannercheckers [https://github.com/apache/incubator-seata/pull/7423]
 - [Merged] test: add UT for SupportSqlWhereMethod class [https://github.com/apache/incubator-seata/pull/7468]
-- [Merging] test: add JMH tests for different scenarios for the new SM3MessageDigest [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
+- [Merged] test: add JMH tests for different scenarios for the new SM3MessageDigest [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maple525866&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
