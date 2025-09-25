@@ -1,5 +1,5 @@
 # 🤓Hello, I'm maple
-Hello, I am maple, a sophomore student studying computer science and technology👻
+Hello, I am maple, a junior student majoring in Computer Science and Technology👻
 
 I hope to become a senior software developer and keep working hard🤠
 
