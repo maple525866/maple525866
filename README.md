@@ -21,11 +21,13 @@ Docker、Kubernetes、Github Actions......
 # Open Source Contributions(working hard to increase😭)
 ## feature：
 - [Merged] feature: Implement a new SM3MessageDigest with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
-- [Merging] feature: Implement Native EdDSA signature with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
+- [Merged] feature: Implement Native EdDSA signature with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
+- [Merging] feature: add support for Jackson serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7669]
 
 ## bugfix：
 - [Merged] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
 - [Merged] bugfix: fixed the problem of not being able to load driver class in Hikari [https://github.com/apache/incubator-seata/pull/7504]
+- [Merging] bugfix: ensure visibility of rm and The methods in MockTest are executed in order [https://github.com/apache/incubator-seata/pull/7662]
 
 ## optimize:
 - [Merged] optimize: Druid SQL parser throws ParserException for unsupported REPLACE statement [https://github.com/apache/incubator-seata/pull/7456]
