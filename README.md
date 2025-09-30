@@ -22,6 +22,7 @@ Docker、Kubernetes、Github Actions......
 ## feature：
 - [Merged] feature: Implement a new SM3MessageDigest with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 - [Merged] feature: Implement Native EdDSA signature with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
+- [Merging] feature: support Oracle Batch Insert [https://github.com/apache/incubator-seata/pull/7675]
 
 ## bugfix：
 - [Merged] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
@@ -39,6 +40,6 @@ Docker、Kubernetes、Github Actions......
 - [Merged] test: add UT for org.apache.seata.spring.annotation.scannercheckers [https://github.com/apache/incubator-seata/pull/7423]
 - [Merged] test: add UT for SupportSqlWhereMethod class [https://github.com/apache/incubator-seata/pull/7468]
 - [Merged] test: add JMH tests and JTREG test for different scenarios for the new SM3MessageDigest [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
-- [Merging] test: add JMH tests and JTREG test for different scenarios for the new EdDSAsignature[https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
+- [Merged] test: add JMH tests and JTREG test for different scenarios for the new EdDSAsignature[https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maple525866&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
