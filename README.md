@@ -5,7 +5,7 @@ I hope to become a senior software developer and keep working hard🤠
 
 Currently studying Nacos, Seata, RocketMQ, Dubbo, Grpc and other microservice development technologies🥱
 
-I am currently passionate about open source and am currently studying the connection between modules in Seata
+I am currently researching compatibility issues between Seata and Oracle databases.
 
 I am currently studying Tencent Kona JDK17, about using JNI to call OpenSSL to accelerate various interfaces, while taking into account pure Java implementation
 
