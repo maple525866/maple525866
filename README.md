@@ -18,7 +18,7 @@ Nacos、Seata、RocketMQ、Kafka ...
 
 Docker、Kubernetes、Github Actions......
 
-# Open Source Contributions(working hard to increase😭)
+# Open Source Contributions
 ## feature：
 - [Merged] feature: Implement a new SM3MessageDigest with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 - [Merged] feature: Implement Native EdDSA signature with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
