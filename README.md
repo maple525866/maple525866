@@ -41,6 +41,6 @@ Docker、Kubernetes、Github Actions......
 - [Merged] test: add UT for SupportSqlWhereMethod class [https://github.com/apache/incubator-seata/pull/7468]
 - [Merged] test: add JMH tests and JTREG test for different scenarios for the new SM3MessageDigest [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 - [Merged] test: add JMH tests and JTREG test for different scenarios for the new EdDSAsignature[https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
-- [Merging] test: add UT for dm module and spotless apply for issue #7642[https://github.com/apache/incubator-seata/pull/7709]
+- [Merged] test: add UT for dm module[https://github.com/apache/incubator-seata/pull/7709]
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maple525866&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
