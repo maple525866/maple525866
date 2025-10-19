@@ -34,6 +34,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] optimize: avoid using unstable API in ChannelEventHandlerIntegrationTest [https://github.com/apache/incubator-seata/pull/7518]
 - [Merged] optimize: Use the strategy mode to optimize the original SM3MessageDigest and SM3Engine architecture [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 - [Merged] optimize: add support for Jackson serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7669]
+- [Merging] optimize: add fastjson support for serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7711]
 
 ## Test：
 - [Merged] test: add UT for RemotingFactoryBeanParser class [https://github.com/apache/incubator-seata/pull/7420]
