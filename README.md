@@ -7,8 +7,6 @@ Currently studying Nacos, Seata, RocketMQ, Dubbo, Grpc and other microservice de
 
 I am currently researching compatibility issues between Seata and Oracle databases.
 
-I am currently studying Tencent Kona JDK17, about using JNI to call OpenSSL to accelerate various interfaces, while taking into account pure Java implementation
-
 # 🛠️Technology Stack
 Java、Go、Git、Sql、Lua...
 
