@@ -32,7 +32,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] optimize: avoid using unstable API in ChannelEventHandlerIntegrationTest [https://github.com/apache/incubator-seata/pull/7518]
 - [Merged] optimize: Use the strategy mode to optimize the original SM3MessageDigest and SM3Engine architecture [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 - [Merged] optimize: add support for Jackson serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7669]
-- [Merging] optimize: add fastjson support for serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7711]
+- [Merged] optimize: add fastjson support for serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7711]
 
 ## Test：
 - [Merged] test: add UT for RemotingFactoryBeanParser class [https://github.com/apache/incubator-seata/pull/7420]
@@ -41,5 +41,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] test: add JMH tests and JTREG test for different scenarios for the new SM3MessageDigest [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 - [Merged] test: add JMH tests and JTREG test for different scenarios for the new EdDSAsignature[https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
 - [Merged] test: add UT for dm module[https://github.com/apache/incubator-seata/pull/7709]
+- [Merged] test: add UT for fastjson2 for PostgreSQL Array type[https://github.com/apache/incubator-seata/pull/7723]
+- [Merging] test: add UT for rm.fence[https://github.com/apache/incubator-seata/pull/7731]
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maple525866&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
