@@ -42,6 +42,6 @@ Docker、Kubernetes、Github Actions......
 - [Merged] test: add JMH tests and JTREG test for different scenarios for the new EdDSAsignature[https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
 - [Merged] test: add UT for dm module[https://github.com/apache/incubator-seata/pull/7709]
 - [Merged] test: add UT for fastjson2 for PostgreSQL Array type[https://github.com/apache/incubator-seata/pull/7723]
-- [Merging] test: add UT for rm.fence[https://github.com/apache/incubator-seata/pull/7731]
+- [Merged] test: add UT for rm.fence[https://github.com/apache/incubator-seata/pull/7731]
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maple525866&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
