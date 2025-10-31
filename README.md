@@ -26,6 +26,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
 - [Merged] bugfix: fixed the problem of not being able to load driver class in Hikari [https://github.com/apache/incubator-seata/pull/7504]
 - [Merged] bugfix: ensure visibility of rm and The methods in MockTest are executed in order [https://github.com/apache/incubator-seata/pull/7662]
+- [Merged] bugfix: undo log table name dynamic derivation [https://github.com/apache/incubator-seata/pull/7747]
 
 ## optimize:
 - [Merged] optimize: Druid SQL parser throws ParserException for unsupported REPLACE statement [https://github.com/apache/incubator-seata/pull/7456]
@@ -33,6 +34,8 @@ Docker、Kubernetes、Github Actions......
 - [Merged] optimize: Use the strategy mode to optimize the original SM3MessageDigest and SM3Engine architecture [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 - [Merged] optimize: add support for Jackson serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7669]
 - [Merged] optimize: add fastjson support for serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7711]
+- [Merged] optimize: upgrade Apache Tomcat dependency from 9.0.108 to 9.0.109 [https://github.com/apache/incubator-seata/pull/7743]
+- [Merged] optimize: upgrade Apache Tomcat dependency from 9.0.109 to 9.0.110 [https://github.com/apache/incubator-seata/pull/7744]
 
 ## Test：
 - [Merged] test: add UT for RemotingFactoryBeanParser class [https://github.com/apache/incubator-seata/pull/7420]
