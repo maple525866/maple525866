@@ -27,6 +27,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] bugfix: fixed the problem of not being able to load driver class in Hikari [https://github.com/apache/incubator-seata/pull/7504]
 - [Merged] bugfix: ensure visibility of rm and The methods in MockTest are executed in order [https://github.com/apache/incubator-seata/pull/7662]
 - [Merged] bugfix: undo log table name dynamic derivation [https://github.com/apache/incubator-seata/pull/7747]
+- [Merged] bugfix: fix Byte[] type to ensure the correct primary key value [https://github.com/apache/incubator-seata/pull/7761]
 
 ## optimize:
 - [Merged] optimize: Druid SQL parser throws ParserException for unsupported REPLACE statement [https://github.com/apache/incubator-seata/pull/7456]
@@ -46,5 +47,6 @@ Docker、Kubernetes、Github Actions......
 - [Merged] test: add UT for dm module[https://github.com/apache/incubator-seata/pull/7709]
 - [Merged] test: add UT for fastjson2 for PostgreSQL Array type[https://github.com/apache/incubator-seata/pull/7723]
 - [Merged] test: add UT for rm.fence[https://github.com/apache/incubator-seata/pull/7731]
+- [Merged] test: add UT for undo module[https://github.com/apache/incubator-seata/pull/7757]
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maple525866&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
