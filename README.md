@@ -6,6 +6,7 @@ I hope to become a senior software developer and keep working hard🤠
 Currently studying Nacos, Seata, RocketMQ, Dubbo, Grpc and other microservice development technologies🥱
 
 I am currently researching compatibility issues between Seata and Oracle databases.
+I've recently been doing in-depth research on Seata's rm and rm-datasource modules.
 
 # 🛠️Technology Stack
 Java、Go、Git、Sql、Lua...
