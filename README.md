@@ -9,6 +9,8 @@ I am currently researching compatibility issues between Seata and Oracle databas
 
 I've recently been doing in-depth research on Seata's rm and rm-datasource modules.
 
+I don't believe there's anything others can do that I can't. I will keep moving forward until I reach my goal.
+
 # 🛠️Technology Stack
 Java、Go、Git、Sql、Lua...
 
