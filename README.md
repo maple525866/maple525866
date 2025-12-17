@@ -5,16 +5,16 @@ I hope to become a senior software developer and keep working hard🤠
 
 Currently studying Nacos, Seata, RocketMQ, Dubbo, Grpc and other microservice development technologies🥱
 
-I am currently researching compatibility issues between Seata and Oracle databases.
-
-I've recently been doing in-depth research on Seata's rm and rm-datasource modules.
+I am currently very interested in Spring AI Alibaba and am learning about its concepts and technologies.
 
 I don't believe there's anything others can do that I can't. I will keep moving forward until I reach my goal.
 
 # 🛠️Technology Stack
 Java、Go、Git、Sql、Lua...
 
-Mysql、Oracle、Redis、Spring、SpringBoot、Dubbo、Grpc...
+Spring、SpringBoot、Spring AI、Langchain4j...
+
+Mysql、Oracle、Redis、Dubbo、Grpc...
 
 Nacos、Apollo、Seata、RocketMQ、Kafka ...
 
