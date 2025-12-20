@@ -32,6 +32,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] bugfix: ensure visibility of rm and The methods in MockTest are executed in order [https://github.com/apache/incubator-seata/pull/7662]
 - [Merged] bugfix: undo log table name dynamic derivation [https://github.com/apache/incubator-seata/pull/7747]
 - [Merged] bugfix: fix Byte[] type to ensure the correct primary key value [https://github.com/apache/incubator-seata/pull/7761]
+- [Merged] bugfix: the vgroup_table in the SQL files of all databases should use a three-column unique constraint [https://github.com/apache/incubator-seata/pull/7881]
 
 ## optimize:
 - [Merged] optimize: Druid SQL parser throws ParserException for unsupported REPLACE statement [https://github.com/apache/incubator-seata/pull/7456]
