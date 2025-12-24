@@ -3,8 +3,6 @@ Hello, I am maple, a junior student majoring in Computer Science and Technology�
 
 I hope to become a senior software developer and keep working hard🤠
 
-Currently studying Nacos, Seata, RocketMQ, Dubbo, Grpc and other microservice development technologies🥱
-
 I am currently very interested in Spring AI Alibaba and am learning about its concepts and technologies.
 
 I don't believe there's anything others can do that I can't. I will keep moving forward until I reach my goal.
@@ -25,7 +23,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] feature: Implement a new SM3MessageDigest with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 - [Merged] feature: Implement Native EdDSA signature with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
 - [Merged] feature: support Oracle Batch Insert [https://github.com/apache/incubator-seata/pull/7675]
-- [Merging] feat(core): provides cross-platform shell detection [https://github.com/alibaba/spring-ai-alibaba/pull/3869]
+- [Merged] feat(core): provides cross-platform shell detection [https://github.com/alibaba/spring-ai-alibaba/pull/3869]
 
 ## bugfix：
 - [Merged] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
