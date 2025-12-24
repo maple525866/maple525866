@@ -7,6 +7,10 @@ I am currently very interested in Spring AI Alibaba and am learning about its co
 
 I don't believe there's anything others can do that I can't. I will keep moving forward until I reach my goal.
 
+# Some recent notes:
+- LLM parameters: Temperature and Top-p analysis [https://juejin.cn/post/7585743487258198025]
+- Escape from Structured Thinking: From Vectors, Vector Databases to RAG [https://juejin.cn/post/7587074669818134554]
+
 # 🛠️Technology Stack
 Java、Go、Git、Sql、Lua...
 
