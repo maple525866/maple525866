@@ -29,7 +29,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] feature: Implement Native EdDSA signature with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
 - [Merged] feature: support Oracle Batch Insert [https://github.com/apache/incubator-seata/pull/7675]
 - [Merged] feat(core): provides cross-platform shell detection [https://github.com/alibaba/spring-ai-alibaba/pull/3869]
-- [Merging] feat(core): adding the ModelRetryInterceptor interceptor automatically retryes failed model calls [https://github.com/alibaba/spring-ai-alibaba/pull/3907]
+- [Merged] feat(core): adding the ModelRetryInterceptor interceptor automatically retryes failed model calls [https://github.com/alibaba/spring-ai-alibaba/pull/3907]
 
 ## bugfix：
 - [Merged] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
