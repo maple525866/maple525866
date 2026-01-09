@@ -30,6 +30,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] feature: support Oracle Batch Insert [https://github.com/apache/incubator-seata/pull/7675]
 - [Merged] feat(core): provides cross-platform shell detection [https://github.com/alibaba/spring-ai-alibaba/pull/3869]
 - [Merged] feat(core): adding the ModelRetryInterceptor interceptor automatically retryes failed model calls [https://github.com/alibaba/spring-ai-alibaba/pull/3907]
+- [Merging] feat(agent): support hook for LlmRoutingAgent [https://github.com/alibaba/spring-ai-alibaba/pull/3994]
 
 ## bugfix：
 - [Merged] bugfix: Github Action workflow does not run the corresponding Kotlin test [https://github.com/apache/incubator-seata/pull/7482]
