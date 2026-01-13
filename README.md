@@ -23,15 +23,21 @@ Nacos、Apollo、Seata、RocketMQ、Kafka ...
 
 Docker、Kubernetes、Github Actions......
 
-# Some Interesting Open Source Contributions
-
+# Recent Some Interesting Open Source Contributions
+## Tencent Kona JDK 17
 - [Merged] feature: Implement a new SM3MessageDigest with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
 - [Merged] feature: Implement Native EdDSA signature with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
+
+## Apache Seata
 - [Merged] feature: support Oracle Batch Insert [https://github.com/apache/incubator-seata/pull/7675]
+- [Merged] bugfix: fixed the problem of not being able to load driver class in Hikari [https://github.com/apache/incubator-seata/pull/7504]
+- [Merged] optimize: add support for Jackson serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7669]
+
+## Spring AI Alibaba
 - [Merged] feat(core): provides cross-platform shell detection [https://github.com/alibaba/spring-ai-alibaba/pull/3869]
 - [Merged] feat(core): adding the ModelRetryInterceptor interceptor automatically retryes failed model calls [https://github.com/alibaba/spring-ai-alibaba/pull/3907]
 - [Merged] feat(agent): support hook for LlmRoutingAgent [https://github.com/alibaba/spring-ai-alibaba/pull/3994]
-- [Merged] bugfix: fixed the problem of not being able to load driver class in Hikari [https://github.com/apache/incubator-seata/pull/7504]
-- [Merged] optimize: add support for Jackson serialization and deserialization of PostgreSQL array types [https://github.com/apache/incubator-seata/pull/7669]
+- [Merging] fix(agent): ensure that the maxConcurrency function of ParallelAgent is implemented [https://github.com/alibaba/spring-ai-alibaba/pull/4053]
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maple525866&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
