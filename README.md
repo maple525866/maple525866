@@ -39,7 +39,7 @@ Docker、Kubernetes、Github Actions......
 - [Merged] feat(core): adding the ModelRetryInterceptor interceptor automatically retryes failed model calls [https://github.com/alibaba/spring-ai-alibaba/pull/3907]
 - [Merged] feat(agent): support hook for LlmRoutingAgent [https://github.com/alibaba/spring-ai-alibaba/pull/3994]
 - [Merged] fix(agent): ensure that the maxConcurrency function of ParallelAgent is implemented [https://github.com/alibaba/spring-ai-alibaba/pull/4053]
-- [Merging] fix(agent): ensure jumpTo normal operation [https://github.com/alibaba/spring-ai-alibaba/pull/4081]
+- [Merged] fix(agent): ensure jumpTo normal operation [https://github.com/alibaba/spring-ai-alibaba/pull/4081]
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maple525866&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
