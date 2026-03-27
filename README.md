@@ -6,7 +6,13 @@ I hope to become a senior software developer and keep working hard🤠
 I am now focusing all my energy on AI and its related development; we must develop alongside AI.
 
 I don't believe there's anything others can do that I can't. I will keep moving forward until I reach my goal.
-
+****
+Thinking
+Solving
+Iterating AGENT.md
+Thinking... 
+Guiding the agent like a human
+Reflecting on oneself like an agent
 
 # 🛠️Technology Stack
 Java、Go、Git、Sql、Lua...
