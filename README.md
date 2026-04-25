@@ -11,7 +11,7 @@ Thinking
 
 Solving
 
-Iterating AGENT.md
+Iterating AGENTS.md
 
 Thinking... 
 
