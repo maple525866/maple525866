@@ -31,9 +31,6 @@ Nacos、Apollo、Seata、RocketMQ、Kafka ...
 Docker、Kubernetes、Github Actions......
 
 # Recent Some Interesting Open Source Contributions
-## Tencent Kona JDK 17
-- [Merged] feature: Implement a new SM3MessageDigest with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/12]
-- [Merged] feature: Implement Native EdDSA signature with JIN and OpenSSL 3.5.0 [https://cnb.cool/tencent/TencentKona/TencentKona-17/-/pulls/30]
 
 ## Apache Seata
 - [Merged] feature: support Oracle Batch Insert [https://github.com/apache/incubator-seata/pull/7675]
