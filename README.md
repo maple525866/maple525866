@@ -3,7 +3,7 @@ Hello, I am maple, a junior student majoring in Computer Science and Technologyð
 
 I hope to become a senior software developer and keep working hardðŸ¤ 
 
-I am now focusing all my energy on AI and its related development; we must develop alongside AI.
+I am currently a backend developer working on cross-border payments, and I also pay special attention to the development of AI.
 
 I don't believe there's anything others can do that I can't. I will keep moving forward until I reach my goal.
 ****
