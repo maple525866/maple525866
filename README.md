@@ -11,9 +11,11 @@ Thinking
 
 Solving
 
-Iterating AGENTS.md
+Iterate my thinking
 
 Thinking... 
+
+Iterate through itself like a loop, using standard entry and exit thresholds.
 
 Guiding the agent like a human
 
