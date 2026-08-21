@@ -1,8 +1,4 @@
 # 🤓Hello, I'm maple
-Hello, I am maple, a junior student majoring in Computer Science and Technology👻
-
-I hope to become a senior software developer and keep working hard🤠
-
 I am currently a backend developer working on cross-border payments, and I also pay special attention to the development of AI.
 
 I don't believe there's anything others can do that I can't. I will keep moving forward until I reach my goal.
